@@ -1,0 +1,8 @@
+[{
+  pluginId : "dashboard",
+  title : 	"Dashboard",
+  navType : "Top",
+  navEntryPrefix : "/dashboard",
+  seqNo : "0",
+  mandatory : true
+}]

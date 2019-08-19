@@ -1,0 +1,6 @@
+# Pull nginx base image
+FROM node:8.15.0-alpine
+
+RUN apk add --update nginx
+
+CMD node -v; npm -v; nginx -v

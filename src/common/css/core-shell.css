@@ -1,0 +1,78 @@
+
+.navbar {
+    background-color: #fff;
+    position: relative;
+    min-height: 62px;
+    margin-bottom: 5px;
+    z-index: var(--zindex-header);
+    box-shadow: 0 2px 4px 0 rgba(208,208,208,0.5);
+}
+
+.navbar-header {
+    height: 59px;
+    padding: 6px;
+}
+
+.navbar-default .navbar-brand {
+    font-size: 22px;
+    font-weight: 100;
+    line-height: 38px;
+    color: #00A1DF;
+}
+
+.branding-strong {
+	font-size : 20px;
+	font-weight: 400;
+}
+
+.branding-sub {
+	font-size : 19px;
+	margin-left: 57px;
+}
+
+div.header-navigation {
+	float: left;
+    margin-left: 40px;
+}
+
+div.navigation {
+    width: 99%;
+}
+
+div.navbutton, div.navbutton-selected {
+    font-size: 12pt;
+    height: 20pt;
+    vertical-align: middle;
+    padding-left: 1em;
+    padding-right: 1em;
+    color:  #58585D;
+    display: table-cell;
+    cursor: pointer;
+    border-collapse: collapse;
+    text-transform: uppercase;
+    line-height: 28px;
+}
+
+div.navbutton {
+	padding: 17px !important;
+}
+
+div.navbutton-selected {
+    font-weight: 400;
+	box-shadow: 0 -5px 0 #abc233 inset;
+	color: #39393b;
+	padding: 17px !important;
+}
+
+div.nav-btn-wrapper {
+	height : 58px;
+}
+
+div.header-right-navigation {
+	float:right;
+}
+
+.right-navigation-icons {
+	font-size: 20px;
+    color: #9E9EA2;
+}

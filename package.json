@@ -1,0 +1,63 @@
+{
+  "name": "field-network-director",
+  "version": "1.0.0",
+  "description": "This is the network management application for on prime and cloud",
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ],
+    "plugins": [
+      [
+        "@babel/plugin-proposal-class-properties"
+      ]
+    ]
+  },
+  "scripts": {
+    "start": "webpack-dev-server --port 3001 --open",
+    "build": "webpack --config webpack.config.js -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://cto-github.cisco.com/IOTSP/iot-ui-coreshell"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.16",
+    "copy-webpack-plugin": "^5.0.4",
+    "css-loader": "^3.0.0",
+    "file-loader": "^4.1.0",
+    "html-webpack-plugin": "^3.2.0",
+    "http-server": "^0.10.0",
+    "style-loader": "^0.23.1",
+    "ts-loader": "^5.3.3",
+    "typescript": "^2.4.2",
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "es6-promise": "^4.1.1",
+    "jquery": "^3.4.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.0.1",
+    "reflect-metadata": "^0.1.10",
+    "request": "^2.88.0",
+    "rxjs": "^5.4.2",
+    "single-spa": "^3.8.1",
+    "single-spa-angular": "^2.2.1",
+    "single-spa-react": "^2.9.0",
+    "zone.js": "^0.8.16"
+  }
+}

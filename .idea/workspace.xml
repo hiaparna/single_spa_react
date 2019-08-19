@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a71957e-ecc4-4342-8976-855c8c82dcf8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/css/dnac-css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/css/dnac-css.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Bold.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-BoldOblique.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-BoldOblique.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-BoldOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-BoldOblique.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-BoldOblique.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLightOblique.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLightOblique.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLightOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLightOblique.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ExtraLightOblique.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Heavy.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Heavy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Heavy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Heavy.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Heavy.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-HeavyOblique.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-HeavyOblique.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-HeavyOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-HeavyOblique.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-HeavyOblique.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-LightOblique.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-LightOblique.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-LightOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-LightOblique.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-LightOblique.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Oblique.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Oblique.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Oblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Oblique.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Oblique.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Thin.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Thin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ThinOblique.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ThinOblique.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ThinOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ThinOblique.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans-ThinOblique.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSans.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBold-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBold-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBoldOblique-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBoldOblique-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBoldOblique-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBoldOblique-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansBoldOblique-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLight-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLight-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLight-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLight-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLight-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLightOblique-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLightOblique-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLightOblique-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLightOblique-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansExtraLightOblique-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavy-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavy-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavy-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavy-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavy-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavyOblique-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavyOblique-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavyOblique-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavyOblique-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansHeavyOblique-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLightOblique-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLightOblique-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLightOblique-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLightOblique-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansLightOblique-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegularOblique-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegularOblique-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegularOblique-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegularOblique-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansRegularOblique-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThin-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThin-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThin-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThin-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThin-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThinOblique-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThinOblique-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThinOblique-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThinOblique-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/CiscoSansThinOblique-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/icon-font.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/icon-font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/icon-font.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/CiscoSans/icon-font.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/Read Me.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/demo-files/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/demo-files/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/fonts/dnac-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/fonts/dnac-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/fonts/dnac-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/fonts/dnac-icons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/selection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/dnac-icon/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/glyphicons/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/glyphicons/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/glyphicons/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/glyphicons/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/icon-font/icon-font.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/icon-font/icon-font.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/icon-font/icon-font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/icon-font/icon-font.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/icon-font/icon-font.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/fonts/icon-font/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/images/Loader.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/images/Loader_2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/.csscomb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/.csslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/code.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/dnac-icon.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/fonts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/glyphicons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/grid.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/normalize.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/palette.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/print.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/scaffolding.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/type.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/core/z-index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/dnac-css.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/alerts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/background-variant.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/border-radius.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/buttons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/center-block.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/clearfix.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/forms.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/gradients.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/grid-framework.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/grid.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/hide-text.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/image.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/labels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/list-group.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/loading.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/nav-divider.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/nav-vertical-align.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/opacity.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/pagination.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/panels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/progress-bar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/reset-filter.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/reset-text.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/resize.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/responsive-visibility.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/size.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/tab-focus.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/table-row.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/text-emphasis.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/text-overflow.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/mixins/vendor-prefixes.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/utilities/responsive-utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/utilities/utilities.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/alerts.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/badges-cisco.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/badges.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/breadcrumbs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/button-groups.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/buttons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/carousel.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/checkbox.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/close.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/component-animations.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/cta-bar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/dropdowns.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/forms.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/gauge.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/input-groups.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/jumbotron.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/labels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/list-group.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/loader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/loading.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/media.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/modals.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/navbar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/navs-cisco.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/navs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/notifications.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/pager.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/pagination.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/panels.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/popovers.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/progress-bars.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/radio.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/ratings.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/responsive-embed.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/select.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/steps.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/switches.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/tables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/tabs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/tags.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/theme.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/thumbnails.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/toggle.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/tooltip.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/css/dnac/less/widgets/wells.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/Dtable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/index-with-deps-react.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/index-with-deps.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/DnxWebComponents.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/accordion/Accordion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/accordion/AccordionPanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/accordion/accordion.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/accordion/accordionPanel.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alert/Alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alert/alert.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alert/nls/en/i18_alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alert/nls/i18_alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alert/nls/ja/i18_alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alert/nls/ko/i18_alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alert/nls/zh/i18_alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alertBetaRelease/AlertBetaRelease.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alertBetaRelease/alertBetaRelease.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alertBetaRelease/nls/en/i18n_alert_beta_release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alertBetaRelease/nls/i18n_alert_beta_release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alertBetaRelease/nls/ja/i18n_alert_beta_release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alertBetaRelease/nls/ko/i18n_alert_beta_release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/alertBetaRelease/nls/zh/i18n_alert_beta_release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/banner/Banner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/banner/banner.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/common/alertCommon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/common/alertCommon.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/productLevelAlert/ProductLevelAlert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/productLevelAlert/productLevelAlert.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/toast/Toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/toast/addToast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/alertsNotifications/toast/toast.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/breadcrumbs/Breadcrumbs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/breadcrumbs/Breadcrumbs.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/card/Card.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/card/CardLayout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/card/card.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/card/cardLayout.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/CCO.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/cco.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/ccoStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/nls/en/i18_cco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/nls/i18_cco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/nls/ja/i18_cco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/nls/ko/i18_cco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/cco/nls/zh/i18_cco.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/Bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/Bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/Donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/DonutStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/DoubleDonut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/HBar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/LineChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/TimeLineStyleJS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/Timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_double_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_hbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_linechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_timelineslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/en/i18_timelinet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_double_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_hbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_linechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/i18_timelineslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_double_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_hbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_linechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ja/i18_timelineslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_double_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_hbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_linechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/ko/i18_timelineslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_bar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_double_donut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_hbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_linechart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_timeline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/nls/zh/i18_timelineslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/Settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/chartStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/nls/en/i18_settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/nls/i18_settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/nls/ja/i18_settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/nls/ko/i18_settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/style/nls/zh/i18_settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/util/createFinalConfig.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/util/createFinalConfig.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/util/interfaces.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/util/sliders.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/charts/util/timeline-widgets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/context/Context.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/flag/Flag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/flag/Flag.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/button/Button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/button/button.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/DatePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/datePicker.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/dropdown.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/float.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/libs/Calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/nls/en/i18_date_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/nls/i18_date_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/nls/ja/i18_date_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/nls/ko/i18_date_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/datePicker/nls/zh/i18_date_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/Dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/dropdown.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/lib/slimselect/slimselect.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/lib/slimselect/slimselect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/nls/en/i18_dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/nls/i18_dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/nls/ja/i18_dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/nls/ko/i18_dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/dropdown/nls/zh/i18_dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/repeater/Repeater.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/repeater/Repeater.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/slider/Slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/slider/libs/nouislider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/slider/libs/nouislider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/slider/slider.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/switch/Switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/switch/SwitchGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/switch/switch.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/switch/switchGroup.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/switch/vertical.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/Textfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/TextfieldGroup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/nls/en/i18_text_field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/nls/i18_text_field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/nls/ja/i18_text_field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/nls/ko/i18_text_field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/nls/zh/i18_text_field.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/textfield.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/textfield/textfieldgroup.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/timePicker/TimePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/timePicker/nls/en/i18_time_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/timePicker/nls/i18_time_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/timePicker/nls/ja/i18_time_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/timePicker/nls/ko/i18_time_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/timePicker/nls/zh/i18_time_picker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/form/timePicker/timePicker.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/frame/Frame.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/frame/Frame.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/loader/Loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/loader/Loader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/modal/Modal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/modal/modal.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/modal/modal.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/modal/modalStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/progress/Progress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/progress/progress.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/quickFilter/QuickFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/quickFilter/QuickFilter.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/quickFilter/nls/en/i18_quick_filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/quickFilter/nls/i18_quick_filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/quickFilter/nls/ja/i18_quick_filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/quickFilter/nls/ko/i18_quick_filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/quickFilter/nls/zh/i18_quick_filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/sidebar/Sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/sidebar/sidebar.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/stepper/Step.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/stepper/Stepper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/stepper/step.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/stepper/stepper.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/Store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/changelog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/dTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/dtable.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/libs/csv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/libs/dataTables.colResize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/nls/en/i18_dTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/nls/i18_dTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/nls/ja/i18_dTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/nls/ko/i18_dTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/nls/zh/i18_dTable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/plugins/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/plugins/highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/plugins/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/plugins/listBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/plugins/showMore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/react/Dtable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/template.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/tools/btn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/tools/export.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/tools/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/tools/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/tools/refresh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/tools/timestamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/tools/title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/table/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/timestamp/Timestamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/timestamp/Timestamp.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/tooltip/Tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/tooltip/lite.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/tooltip/tooltip.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/Tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/TreeSearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/nls/en/i18_treesearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/nls/i18_treesearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/nls/ja/i18_treesearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/nls/ko/i18_treesearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/nls/zh/i18_treesearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/tree.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/treeSearch/treeSearch.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/components/z@example/howToTabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/dnxutils/createTooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/dnxutils/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/index.react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/less/overrides/formcontrol.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/mixins/with-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/styles.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/NoShadowRoot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/define.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/emit.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/escaping.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/eventHandler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/getScrollParent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/makeReacty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/makeReactyGeneric.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/nls/en/i18_regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/nls/i18_regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/nls/ja/i18_regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/nls/ko/i18_regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/nls/zh/i18_regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/numToWord.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/stringToHtml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/titleCases.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/src/utils/with-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/js/libs/dnx-web-components/table.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core-shell.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core-shell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/navbar/navbar.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/navbar/navbar.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/components/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/components/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/components/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/data/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/data/gatewayList.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/menu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/quick.start.app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/plugins/quick-start/utils/constants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/dist/" />
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="816">
+              <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core-shell.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="85" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/navbar/navbar.component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="186" selection-start-line="17" selection-start-column="186" selection-end-line="17" selection-end-column="186" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/dashboard/dashboard.app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nginx.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/core/dashboard/dashboard.component.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile.base">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>coreshell-application</find>
+      <find>dnx</find>
+      <find>ui-core</find>
+      <find>jquer</find>
+      <find>&quot;jquery&quot;</find>
+      <find>libraryTarget</find>
+      <find>html</find>
+      <find>CopyWebpackPlugin</find>
+      <find>jQuery For Table component only, skip if not using tables</find>
+      <find>regeneratorRuntime</find>
+      <find>dist/</find>
+      <find>Cisco</find>
+      <find>cisco</find>
+      <find>DnxSwitch</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="WorkInProgress" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dockerfile.base" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/navbar.js" />
+        <option value="$PROJECT_DIR$/src/dashboard.js" />
+        <option value="$PROJECT_DIR$/src/util.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/core-shell.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/core/navbar/navbar.component.js" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/nginx.conf" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1494" />
+    <option name="y" value="23" />
+    <option name="width" value="1339" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iot-ui-coreshell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-ui-coreshell" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-ui-coreshell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-ui-coreshell" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-ui-coreshell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-ui-coreshell" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-ui-coreshell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-ui-coreshell" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-ui-coreshell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-ui-coreshell" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot-ui-coreshell" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot-ui-coreshell" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="table" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/src/config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a71957e-ecc4-4342-8976-855c8c82dcf8" name="Default Changelist" comment="" />
+      <created>1565284888742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565284888742</updated>
+      <workItem from="1565284890271" duration="12402000" />
+      <workItem from="1565733113171" duration="10000" />
+      <workItem from="1565733358724" duration="8049000" />
+      <workItem from="1565817366324" duration="14611000" />
+      <workItem from="1565919028573" duration="5480000" />
+      <workItem from="1565971083460" duration="1441000" />
+      <workItem from="1566190310244" duration="1276000" />
+      <workItem from="1566231348033" duration="24000" />
+      <workItem from="1566237440172" duration="6750000" />
+      <workItem from="1566257213329" duration="23000" />
+      <workItem from="1566257282529" duration="543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1612" y="65" width="1339" height="907" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.23973115" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" visible="true" weight="0.06812652" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/plugins/device-management/index.js" />
+    <entry file="file://$PROJECT_DIR$/dist/5.js.map" />
+    <entry file="file://$PROJECT_DIR$/src/core/navbar/sideNavbar.component.js" />
+    <entry file="file://$PROJECT_DIR$/src/core/meta.json" />
+    <entry file="file://$PROJECT_DIR$/dist/4.js" />
+    <entry file="file://$PROJECT_DIR$/dist/5.js" />
+    <entry file="file://$PROJECT_DIR$/dist/3.js" />
+    <entry file="file://$PROJECT_DIR$/dist/4.js.map" />
+    <entry file="file://$PROJECT_DIR$/dist/3.js.map" />
+    <entry file="file://$PROJECT_DIR$/src/common/js/table/table.js" />
+    <entry file="file://$USER_HOME$/RainierOVA/rainier-prototype/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/base.webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dashboard.js" />
+    <entry file="file://$PROJECT_DIR$/dist/navbar.js.map" />
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/util.js" />
+    <entry file="file://$PROJECT_DIR$/src/navbar.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/verror/lib/verror.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2024">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/navbar/navbar.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/menu.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/topmenu.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/css/core-shell.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/js/utils/servicehelpers.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core-shell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="72" selection-start-line="5" selection-start-column="72" selection-end-line="5" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/navbar/navbar.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/dashboard/dashboard.component.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile.base">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/dashboard/dashboard.app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="186" selection-start-line="17" selection-start-column="186" selection-end-line="17" selection-end-column="186" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
